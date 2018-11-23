@@ -99,7 +99,8 @@ class ContactData extends Component {
         validation: {}
       }
     },
-    formIsValid: false
+    formIsValid:false
+
   };
 
   orderHandler = (event) => {
